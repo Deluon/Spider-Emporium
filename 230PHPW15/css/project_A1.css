@@ -1,0 +1,193 @@
+body{
+    font-family: Arial, Verdanna, "Sans Serif";
+    background-color: #999;
+    color: #FFFFFF;
+}
+#wrapper{
+    width: 1024px;
+    margin: 0 auto;
+}
+#hero{
+    text-align: center;
+}
+#logo{
+    position: relative;
+    top: 45px;
+}
+
+#banner{
+    font-weight: bold;
+    color: #C70000;
+    font-size: 70px;
+    margin-bottom: 20px;
+    margin-top: -55px;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+#login{
+    position: relative;
+    left: 895px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    width: 150px;
+}
+#news{
+    width: 300px;
+    text-align:center;
+    font-weight: bold;
+    color: #009903;
+    display: inline-block;
+}
+#news p{
+    margin-bottom: 20px;
+}
+.news p{
+    margin-top: -20px;
+}
+.news{
+    width: 600px;
+}
+.news h2{
+    margin-top: 20px;
+}
+#archive{
+    position: relative;
+    top: -600px;
+    left: 620px;
+    width: 400px;
+}
+#archive h4{
+    font-weight: bold;
+}
+#archive p{
+    margin-bottom: 20px;
+}
+p:first-child{
+    color: #0000C9;
+    font-weight: bold;
+}
+
+#special{
+    width: 350px;
+    text-align:center;
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+#special:nth-child(2){
+    color: #0000C9;
+    font-weight: bold;
+}
+#contact h3{
+    font-weight: bold;
+}
+#contact{
+    display: inline-block;
+}
+#contact p{
+    color: #0000C9;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+h2, h3{
+    color: #C70000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h4{
+    color: #009903;
+}
+
+#spiders #store li, #store img{
+    display: inline-block;
+    list-style: none;
+    width: 304px;
+    height: 230px;
+}
+#store{
+    margin-bottom: 25px;
+}
+
+#store figcaption{
+    margin-left: 65px;
+}
+
+a:link{
+    color: #009903;
+    text-decoration: none;
+}
+a:visited{
+    color: #C70000;
+}
+a:hover{
+    color: #0000C9;
+}
+
+footer{
+    height: 20px;
+    clear: both;
+}
+.fp{
+    text-align:center;
+    margin-bottom: 20px;
+}
+
+.fp h1{
+    color: #C70000;
+    font-size: 25px;
+    font-weight: bold;
+}
+fieldset{
+    margin-bottom: 25px;
+}
+legend{
+    color: #C70000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.login{
+    text-align: left;
+    position: relative;
+    left: 400px;
+    width: 300px;
+}
+
+.comment_box{
+    position: relative;
+    left: 550px;
+    top: -210px;
+    width: 300px;
+}
+.comments{
+    margin-bottom: -150px;
+    margin-top: -80px;
+}
+.comments p{
+    width: 500px;
+}
+.comments h4{
+    font-weight: bold;
+    margin-top: 10px;
+}
+.prod_desc p{
+    width: 500px;
+}
+.prod_desc{
+    position: relative;
+    left: 500px;
+    top: -200px;
+}
